@@ -14,4 +14,4 @@ spec:
     - ./domains/backstage-domain.yaml
     - ./domains/finance-domain.yaml
     - https://github.com/mingjiex-vmware/tanzu-java-web-app/blob/main/catalog-info.yaml
-    - https://github.com/mingjiex-vmware/yelb-catalog/blob/master/catalog-info.yaml
+    - https://github.com/mingjiex-vmware/yelb-catalog/blob/main/catalog-info.yaml
